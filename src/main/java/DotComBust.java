@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class SimpleDotCom {
+public class DotComBust {
     private ArrayList<String> locationCells;
 //    int numOfHits;
 
